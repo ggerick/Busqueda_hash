@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/Busqueda_por/Busqueda_por/bin/Debug/Busqueda_por.exe
+/Users/AlanGarcia/Projects/Busqueda_por/Busqueda_por/bin/Debug/Busqueda_por.pdb
+/Users/AlanGarcia/Projects/Busqueda_por/Busqueda_por/obj/x86/Debug/Busqueda_por.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/Busqueda_por/Busqueda_por/obj/x86/Debug/Busqueda_por.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/Busqueda_por/Busqueda_por/obj/x86/Debug/Busqueda_por.exe
+/Users/AlanGarcia/Projects/Busqueda_por/Busqueda_por/obj/x86/Debug/Busqueda_por.pdb
